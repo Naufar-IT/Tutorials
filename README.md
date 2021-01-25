@@ -1,4 +1,5 @@
-# Tutorials
+# GitHub Tutorials
+
 Launch your first course
 https://lab.github.com/
 
