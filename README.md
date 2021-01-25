@@ -17,5 +17,8 @@ https://github.com/github/VisualStudio/blob/master/docs/using/index.md
 Getting Started with GitHub for Visual Studio
 https://github.com/github/VisualStudio/blob/master/docs/getting-started/index.md
 
+Publishing an existing project to GitHub
+https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
+
 GitHub Project Management Tutorial - Setup GitHub Projects & Automations
 https://www.youtube.com/watch?v=ff5cBkPg-bQ
